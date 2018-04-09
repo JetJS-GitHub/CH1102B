@@ -21,6 +21,7 @@ namespace CH1102B
         {
             InitializeComponent();
         }
+        //Example for GitHub
 
         private void btnOpen_Click(object sender, EventArgs e)
         {
